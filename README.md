@@ -9,6 +9,6 @@
   -[] Add more tools
  -intcodev2_2.py 
   
-  -[] Clean up the code
+  -[ ] Clean up the code
   
-  -[] Add parameters to run the script in debug mode
+  -[ ] Add parameters to run the script in debug mode
