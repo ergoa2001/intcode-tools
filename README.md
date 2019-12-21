@@ -8,5 +8,7 @@
   -[] Read image from file, save output to a file
   -[] Add more tools
  -intcodev2_2.py 
+  
   -[] Clean up the code
+  
   -[] Add parameters to run the script in debug mode
