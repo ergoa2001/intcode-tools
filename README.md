@@ -10,7 +10,7 @@
   
   - [ ] Add more tools
   
- -intcodev2_2.py 
+ - intcodev2_2.py 
   
   - [ ] Clean up the code
   
